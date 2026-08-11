@@ -10,7 +10,8 @@ class Weather(QWidget): # class means blueprint (In this case, the weather app i
         super().__init__()
         self.setWindowTitle("WeatherApp") # used to represent the object created from the class
         self.initUI()
-      #  self.text = QLineEdit(self)
+      #  THE CODE OF LINE UNDER THIS WAS FOR TESTING PURPOSES
+      #  self.text = QLineEdit(self   
       #  self.text.move(100, 70)
       #  self.text.resize(300, 300)
       #  self.text.setFont(QFont("Times New Roman", 15))
