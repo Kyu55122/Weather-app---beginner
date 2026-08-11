@@ -1,5 +1,6 @@
 Building a Weather App as a complete beginner 
 *Please note, this is my first "Big" project as of currently
+AND MUST REPLACE API KEY WITH YOUR (OWN)
 
 -Uses Pyqt5 and Python
 
